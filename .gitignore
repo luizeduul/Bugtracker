@@ -8,3 +8,4 @@ node_modules/
 #json
 now.json
 bugtracker.json
+package-lock-json
