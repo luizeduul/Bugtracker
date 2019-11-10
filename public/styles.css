@@ -1,0 +1,20 @@
+.navB #navbar{
+    background: #741b75;
+    border: 1px solid;
+    padding: 20px;
+    margin-bottom: 20px;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fafafa;
+    color: #333;
+}
