@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>Bugtracker</title>
+        <link rel="shortcut icon" href="/images/bugtracker-icon.png" type="image/x-png"/>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="/styles.css"/>
+        <script>
+            //navegador + relogio
+            document.onreadystatechange = () => {
+                if(document.readyState === 'interactive'){
+                    document.getElementById('userAgent').value = window.navigator.userAgent;
+                    document.getElementById('userDate').value = new Date;
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <div class="navB">
+            <nav class="" id="navbar">
+                <a href="/">
+                    <img src="/images/bugtracker-logo.png" class="img-fluid" alt="Bugtracker" width="100" heigth="100"/>
+                </a>
+            </nav>
+        </div>
+        <div class="container">
+            <div class="alert alert-success" role="alert">
+                Seu problema foi reportado com sucesso. Muito obrigado. <a href="/">Voltar e reportar mais um problema</a>
+            </div>
+        </div>
+    </body>
+</html>
