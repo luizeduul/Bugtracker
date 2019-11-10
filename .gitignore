@@ -1,0 +1,10 @@
+#dependencies directories
+
+node_modules/
+
+#dotenv
+.env
+
+#json
+now.json
+bugtracker.json
