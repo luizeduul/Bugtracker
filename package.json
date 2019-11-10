@@ -1,0 +1,19 @@
+{
+  "name": "bugtracker",
+  "version": "1.0.3",
+  "description": "Reporte bugs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js -w"
+  },
+  "author": "Luiz Eduardo",
+  "license": "MIT",
+  "dependencies": {
+    "@sendgrid/mail": "^6.4.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "google-spreadsheet": "^2.0.8"
+  }
+}
