@@ -77,6 +77,6 @@ app.listen(3000, (err) => {
     if (err) {
         console.log('Aconteceu um erro');
     } else {
-        console.log('bBug tracker rodando na porta 3000')
+        console.log('Bug tracker rodando na porta 3000')
     }
 });
