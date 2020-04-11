@@ -14,7 +14,7 @@
 <h2>Descrição</h2>
  <p> Esse projeto foi desenvolvido para aprendizado. Com ele podemos fazer um reporte de bugs onde informará alguns dados e selecionará o nivel do problema: normal, critico. Se ele for enviado como crítico irá ser enviado um email para o "desenvolvedor" para que ele possa analisar o problema e encontrar uma solução. Os dados informados serão salvos em uma planilha do google drive</p>
  
- [Acesse aqui](https://bugtracker.luizeduardr.now.sh/){:target="_blank" :rel="noopener"} Acesse aqui</a>Acesse a versão online para visualizar o resultado. 
+ [Acesse aqui](https://bugtracker.luizeduardr.now.sh/?target=_blank){:target="_blank" :rel="noopener"} Acesse aqui</a>Acesse a versão online para visualizar o resultado. 
  
  
 ## Tecnologias
