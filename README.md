@@ -15,7 +15,9 @@
 <p>Faça a instalação das dependências necessárias para rodar o projeto utilizando o yarn ou npm<p>
  
 ### yarn install
+
 <p>ou</p>
+
 ### npm install
 
 <h2>Descrição</h2>
