@@ -13,6 +13,8 @@
 ## Como utilizar 
 <p>Faça um clone desse projeto em sua máquina</p><br>
 <p>Faça a instalação das dependências necessárias para rodar o projeto utilizando o yarn ou npm<p>
+  
+- [Acesse aqui](https://bugtracker.luizeduardr.now.sh/) a versão online para visualizar o resultado. 
  
 ### yarn install
 
@@ -23,9 +25,7 @@
 <h2>Descrição</h2>
  <p> Esse projeto foi desenvolvido para aprendizado. Com ele podemos fazer um reporte de bugs onde informará alguns dados e selecionará o nivel do problema: normal, critico. Se ele for enviado como crítico irá ser enviado um email para o "desenvolvedor" para que ele possa analisar o problema e encontrar uma solução. Os dados informados serão salvos em uma planilha do google drive</p>
  
- [Acesse aqui](https://bugtracker.luizeduardr.now.sh/)Acesse a versão online para visualizar o resultado. 
- 
- <h2>Previews do projeto</h2>
+<h2>Previews do projeto</h2>
 
 ## Web
 <p align="center">
