@@ -9,6 +9,15 @@
 </p>
 
 <p>Projeto desenvolvido durante o workshop Fullstack Lab do Devpleno do Túlio Faria</p>
+
+## Índice
+- [Descrição](#descrição)
+- [Como utilizar](#como-utilizar)
+- [Preview do projeto](#preview-do-projeto)
+- [Tecnologias Utilizadas](#tecnologias)
+
+## Descrição
+<p> Esse projeto foi desenvolvido para aprendizado. Com ele podemos fazer um reporte de bugs onde informará alguns dados e selecionará o nivel do problema: normal, critico. Se ele for enviado como crítico irá ser enviado um email para o "desenvolvedor" para que ele possa analisar o problema e encontrar uma solução. Os dados informados serão salvos em uma planilha do google drive</p>
       
 ## Como utilizar 
 <p>Faça um clone desse projeto em sua máquina</p><br>
@@ -22,12 +31,9 @@
 
 ### npm install
 
-<h2>Descrição</h2>
- <p> Esse projeto foi desenvolvido para aprendizado. Com ele podemos fazer um reporte de bugs onde informará alguns dados e selecionará o nivel do problema: normal, critico. Se ele for enviado como crítico irá ser enviado um email para o "desenvolvedor" para que ele possa analisar o problema e encontrar uma solução. Os dados informados serão salvos em uma planilha do google drive</p>
- 
-<h2>Previews do projeto</h2>
+## Preview do projeto
 
-## Web
+<h3>Web</h3>
 <p align="center">
   <img alt="webversion" src="https://ik.imagekit.io/8qmbx6p1dq/Assets/ezgif.com-optimize_OP8FvPAf8.gif"/>
 </p>
