@@ -23,7 +23,7 @@
 <p>Faça um clone desse projeto em sua máquina</p><br>
 <p>Faça a instalação das dependências necessárias para rodar o projeto utilizando o yarn ou npm<p>
   
-- [Acesse aqui](https://bugtracker.luizeduardr.now.sh/) a versão online para visualizar o resultado. 
+- [Acesse aqui](https://bugtracker.luizeduardr.vercel.app/) a versão online para visualizar o resultado. 
  
 ### yarn install
 
