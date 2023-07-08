@@ -9,7 +9,7 @@
   "author": "Luiz Eduardo",
   "license": "MIT",
   "dependencies": {
-    "@sendgrid/mail": "^6.4.0",
+    "@sendgrid/mail": "^7.7.0",
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
     "ejs": "^2.7.1",
